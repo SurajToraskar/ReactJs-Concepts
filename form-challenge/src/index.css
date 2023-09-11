@@ -42,3 +42,8 @@ button {
     text-transform: uppercase;
     cursor: pointer;
 }
+
+h5{
+    font-family: Arial;
+    background: #8e44ad;
+}
